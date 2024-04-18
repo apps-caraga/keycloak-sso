@@ -1,0 +1,8 @@
+{
+  "realm": "SSO",
+  "auth-server-url": "http://172.31.240.198:8080/auth/",
+  "ssl-required": "external",
+  "resource": "SSO-CLIENT-APP",
+  "public-client": true,
+  "confidential-port": 0
+}
